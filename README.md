@@ -1,1 +1,1 @@
-# eb_3_masrp_studen-information-system
+# eb_3_masrp_student-information-system
